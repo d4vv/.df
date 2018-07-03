@@ -1,3 +1,5 @@
+scriptencoding utf-8
+set encoding=utf-8
 set shell=zsh
 set mouse=a
 set laststatus=2
